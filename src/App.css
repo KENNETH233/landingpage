@@ -17,6 +17,71 @@
   color: white;
 }
 
+.name{
+  margin-top: 20px;
+  margin-left: auto;
+}
+
 .App-link {
   color: #09d3ac;
+}
+
+h1{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 50px;
+  color: lightsalmon;
+}
+
+.topbox{
+  display: flex;
+}
+
+.logo{
+  text-align: center;
+  width: 500px;
+  align-items: center;
+  background: transparent;
+  border-style: solid;
+  border-left-color: transparent;
+  border-right-color: transparent;
+  border-top-color: transparent;
+  border-bottom-color: transparent;
+  justify-content: space-between;
+}
+
+.break{
+  length: 100px;
+  height: 100px;
+  padding: 10px;
+}
+
+.ui{
+  margin: 0px;
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+}
+
+.uipage{
+  padding: 31px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-style: solid;
+  border-radius: 20px;
+  border-left: transparent;
+  border-right: transparent;
+  border-color: lightgray;
+  margin-top: 50px;
+}
+
+.phone{
+  width: 500px;
+  height: 400px;
+}
+
+p{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  color: lightcoral;
 }
