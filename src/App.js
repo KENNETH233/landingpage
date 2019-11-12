@@ -18,7 +18,7 @@ function App() {
       </div>
 
       <div>
-        <h1 className="slogan">Slogan for Break</h1>
+        <h1 className="slogan">“it takes 66 days to change a habit, can you do it?”</h1>
       </div>
 
       <div className="ui">
