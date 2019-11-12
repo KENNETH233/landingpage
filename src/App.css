@@ -18,8 +18,9 @@
 }
 
 .name{
-  margin-top: 20px;
-  margin-left: auto;
+  margin-top: 0px;
+  margin-left: -200px;
+  
 }
 
 .App-link {
@@ -34,6 +35,8 @@ h1{
 
 .topbox{
   display: flex;
+  flex-direction: row;
+  justify-content: center
 }
 
 .logo{
@@ -47,6 +50,7 @@ h1{
   border-top-color: transparent;
   border-bottom-color: transparent;
   justify-content: space-between;
+  margin-left: -180px;
 }
 
 .break{
@@ -84,4 +88,9 @@ p{
   font-family: Arial, Helvetica, sans-serif;
   font-size: 20px;
   color: lightcoral;
+}
+
+.slogan{
+  font-size: 40px;
+  color: lightsalmon;
 }

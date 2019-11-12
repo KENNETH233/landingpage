@@ -17,13 +17,17 @@ function App() {
         </div>
       </div>
 
+      <div>
+        <h1 className="slogan">Slogan for Break</h1>
+      </div>
+
       <div className="ui">
         <div className="uipage">
           <img className="phone" src="https://previews.dropbox.com/p/thumb/AAmzgQPJo2tXk84vPc5THKrmXOW9NijopcDqyZD80DMb6FeCCQnpZo3TlPAjL2FgXUsUptWOK7dTELfp_1h74ITDQydSJwP_WyuEPVfCsGE7kiXBHp-FDxOWsNw-N2CUgXUje2qaxer6-Xb0_ZxgKelCI4wIt_67z7_7JTY4bJlflD8v0fjbBQfLKNERMOgn253hYfuOx1yDfQoHEjr57ZXA6B7jj_67iu9oIVFRX0Ikdt-PEH_yMw1FxT8TsEH5shZkZjjVXNppBVzVq4z44DTGek_er66E__4v906d2Wx_u3hnkKlfKAy5w1zCD29BZ-024UozRqw49AQjuGnPRkn4LBx15ZlBgDWwYu3AAbEnTw/p.png?size=2048x1536&size_mode=3"></img>
           
           <div className="description">
             <p>
-              description
+              Break helps remind you of your intentions of using your digital devices and your goals for the day.
             </p>
           </div>
         </div>
@@ -33,7 +37,7 @@ function App() {
 
           <div className="description">
             <p>
-              description
+            Choose how you want to "break" bad habits by customizing which applications have limited access.
             </p>
           </div>
         </div>
@@ -43,7 +47,7 @@ function App() {
 
           <div className="description">
             <p>
-              description
+            Track your usage and see how far you are into changing your habits!
             </p>
           </div>
         </div>
