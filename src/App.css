@@ -86,6 +86,7 @@ h1{
 .phone{
   width: 500px;
   height: 400px;
+  margin-top: -50px;
 }
 
 p{
@@ -114,5 +115,5 @@ button{
 }
 
 .description{
-  margin-top: -40px;
+  margin-top: -30px;
 }
