@@ -96,24 +96,62 @@ p{
 }
 
 .slogan{
-  font-size: 40px;
+  font-size: 25px;
   color: lightsalmon;
 }
 
 .buttonBox{
   display: flex;
   justify-content: center;
-  margin-top: 25%;
+  align-items: center;
+  opacity: 90%;
 }
 
 button{
-  width: 200px;
-  height: 100px;
+  width: 300px;
+  height: 125px;
+  font-size: 25px;
   border-style: solid;
   border-radius: 20px;
   background:lightsalmon;
+
 }
 
 .description{
   margin-top: -30px;
+}
+
+.backgroundPage{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background: url("https://ctl.s6img.com/society6/img/rBZRXu10a_Bp-UyoIjn8DZeVWnQ/w_700/shams/swatch/~artwork,fw_6105,fh_3505,fx_36,fy_-3057,iw_6104,ih_7630/s6-original-art-uploads/society6/uploads/misc/7a63ae06b2fe4601ad8b9f06ff28120d/~~/counting-sheep-ii-sheep-jumping-over-fences-shams.jpg");
+  background-size: cover;
+  height: 100vh;
+  text-align: center;
+}
+
+.question{
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+}
+
+.problem{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  color:black;
+}
+
+.problemBox{
+  background-color: lightsalmon;
+  opacity:90%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+  width: 1100px;
+  height: 200px;
+  border-style: solid;
+  border-color: transparent;
+  border-radius:20px;
+  text-align: center;
 }

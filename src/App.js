@@ -24,10 +24,29 @@ function Interaction() {
   }
   else {
     return (
-      <div className="buttonBox">
-        <button onClick={countState}>
-          Wanna break a habit?
-    </button>
+      <div className="backgroundPage">
+
+        <div>
+          <h1 className="question">Tired of count sheep/upcoming assignments?</h1>
+        </div>
+
+        <div className="problemBox">
+          <p className="problem">
+          Ever find yourself unconsciously picking up your phone and next thing you know
+          </p>
+          <p className="problem">
+          you're NOT finishing up that paper but you're shopping for Feiyue's on Taobao...
+          </p>
+          <p className="problem">
+          and the next thing you know, an all nighter is the only solution?
+          </p>
+        </div>
+
+        <div className="buttonBox">
+          <button className="startingButton" onClick={countState}>
+            Wanna solve that?
+          </button>
+        </div>
       </div>
     );
   }
@@ -38,7 +57,7 @@ function ShowContent() {
     <div className="App">
       <div className="topbox">
         <div className="logo">
-          <img className="break" src="https://ucd4b88dd57e2e4ab7a7ef1b4989.previews.dropboxusercontent.com/p/thumb/AAk9oroj4w0HlXNc-qOTRimT8ifqImkEFva7yZEShz44MaVGOk-lpuzuKa-OXbK8ytRTP-Gz0yiJ2-VurMp17pKEUaZT4inic_M3wf-3kLcNcuYwKEYsbZ1Y74lvX1ilH-Dpu5PpU99T5LvWnH1NM7z11EW0s0RYe7mX4KT67pC_5xdePaS8q03fCeruxxMAF5riqb8JohNBME7GII60v0U-iXXq_Xv1NwSTiLNLFnEJrxMF8GqM0NFg06Y3206YrlF4jJZ5m4XUZafCtf-3eHlBNypPcLGaqQb0pweVrE8YJNF_ycWcpCsT-jFTK1y5EQllYMBNvd6JvqsFGqLCuyQL/p.png" alt="logo"></img>
+          <img className="break" src="https://previews.dropbox.com/p/thumb/AAlmdu14wTFS2Wm94hWstsDSpda98GVMMDecAl1TmXPh8cnrWp64DVyINcM-CjDg_5okF8Ujr02E4EVy529o0Zj9pJwOAbXOTMPIglFKYBmB_I_n5xpuDs6sHgmXxz_r-E3CrXV2_Vkr8LJRtwNJlUF_3P29SwQktStRglV2AKqZDQXn7QTRDlyohcKZR_R8U7XZWkdDEMTUEX0LhDGIVe4WxDoOB2dLjxrK30BwUf5-zQtSHoHjGats-XxTWgTFXeuMkJZH5nGy3ueMSXycYWdchJyZa4scQShs3Fgylg6KOpxuqTVKMV1G9rQ9UO7bqv3-dt_Hjts9m_92OZBHI0CpFUv6S-19w8d64yBP_BzU5w/p.png?fv_content=true&size_mode=5" alt="logo"></img>
         </div>
 
         <div className="name">
@@ -49,7 +68,7 @@ function ShowContent() {
       </div>
 
       <div>
-        <h1 className="slogan">“it takes 66 days to change a habit, can you do it?”</h1>
+        <h1 className="slogan">“Every time you unconsciously click on the application you'll be redirected to Break and will remind you of the tasks you have!”</h1>
       </div>
 
       <div className="ui">
@@ -86,7 +105,7 @@ function ShowContent() {
 
       <div>
         <button>
-          Click to download!
+          Click to learn more!
         </button>
       </div>
     </div>
