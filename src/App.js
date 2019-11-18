@@ -44,7 +44,7 @@ function Interaction() {
 
         <div className="buttonBox">
           <button className="startingButton" onClick={countState}>
-            Wanna solve that?
+            Wanna solve that? Click!
           </button>
         </div>
       </div>

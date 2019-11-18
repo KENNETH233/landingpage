@@ -114,7 +114,7 @@ button{
   border-style: solid;
   border-radius: 20px;
   background:lightsalmon;
-
+  font-weight: bold;
 }
 
 .description{
@@ -143,7 +143,7 @@ button{
 }
 
 .problemBox{
-  background-color: lightsalmon;
+  background-color:white;
   opacity:90%;
   margin-left: auto;
   margin-right: auto;
