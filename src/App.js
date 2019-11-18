@@ -57,7 +57,7 @@ function ShowContent() {
     <div className="App">
       <div className="topbox">
         <div className="logo">
-          <img className="break" src="https://cdn1.imggmi.com/uploads/2019/11/18/69f48b9b44639a180f783a20a4de7782-full.jpg"></img>
+          <img className="break" src="https://cdn1.imggmi.com/uploads/2019/11/18/69f48b9b44639a180f783a20a4de7782-full.jpg" alt="logo"/>
         </div>
 
         <div className="name">
@@ -73,7 +73,7 @@ function ShowContent() {
 
       <div className="ui">
         <div className="uipage">
-          <img className="phone" src="https://cdn1.imggmi.com/uploads/2019/11/18/d2a88e701156989124bdf01624c94b52-full.jpg" alt="homepage"></img>
+          <img className="phone" src="https://cdn1.imggmi.com/uploads/2019/11/18/d2a88e701156989124bdf01624c94b52-full.jpg" alt="homepage"/>
 
           <div className="description">
             <p>
@@ -83,7 +83,7 @@ function ShowContent() {
         </div>
 
         <div className="uipage">
-          <img className="phone" src="https://cdn1.imggmi.com/uploads/2019/11/18/601b535f87436326b3e86bf2b9b630a0-full.jpg" alt="custimization"></img>
+          <img className="phone" src="https://cdn1.imggmi.com/uploads/2019/11/18/601b535f87436326b3e86bf2b9b630a0-full.jpg" alt="custimization"/>
 
           <div className="description">
             <p>
@@ -93,7 +93,7 @@ function ShowContent() {
         </div>
 
         <div className="uipage">
-          <img className="phone" src="https://cdn1.imggmi.com/uploads/2019/11/18/d0b7ffb24526b5eba871059bf146be61-full.jpg" alt="stats"></img>
+          <img className="phone" src="https://cdn1.imggmi.com/uploads/2019/11/18/d0b7ffb24526b5eba871059bf146be61-full.jpg" alt="stats"/>
 
           <div className="description">
             <p>
