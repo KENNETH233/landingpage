@@ -57,33 +57,33 @@ function ShowContent() {
     <div className="App">
       <div className="topbox">
         <div className="logo">
-          <img className="break" src="https://cdn1.imggmi.com/uploads/2019/11/18/69f48b9b44639a180f783a20a4de7782-full.jpg" alt="logo"/>
+          <img className="break" src="b4uco-hazjf-0.jpg" alt="logo"/>
         </div>
 
         <div className="name">
           <h1>
             Break
-        </h1>
+          </h1>
         </div>
       </div>
 
       <div>
-        <h1 className="slogan">“Every time you unconsciously click on the application you'll be redirected to Break and will remind you of the tasks you have!”</h1>
+        <h2 className="slogan">“Every time you unconsciously click on the application you'll be redirected to Break and will remind you of the tasks you have!”</h2>
       </div>
 
       <div className="ui">
         <div className="uipage">
-          <img className="phone" src="https://cdn1.imggmi.com/uploads/2019/11/18/d2a88e701156989124bdf01624c94b52-full.jpg" alt="homepage"/>
+          <img className="phone" src="iPhone X 1 Template.jpg" alt="homepage"/>
 
           <div className="description">
             <p>
               Break helps remind you of your intentions of using your digital devices and your goals for the day.
-          </p>
+            </p>
           </div>
         </div>
 
         <div className="uipage">
-          <img className="phone" src="https://cdn1.imggmi.com/uploads/2019/11/18/601b535f87436326b3e86bf2b9b630a0-full.jpg" alt="custimization"/>
+          <img className="phone" src="iPhone X 3 Template.jpg" alt="custimization"/>
 
           <div className="description">
             <p>
@@ -93,7 +93,7 @@ function ShowContent() {
         </div>
 
         <div className="uipage">
-          <img className="phone" src="https://cdn1.imggmi.com/uploads/2019/11/18/d0b7ffb24526b5eba871059bf146be61-full.jpg" alt="stats"/>
+          <img className="phone" src="iPhone X 2 Template.jpg" alt="stats"/>
 
           <div className="description">
             <p>

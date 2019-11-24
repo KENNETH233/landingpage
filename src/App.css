@@ -1,7 +1,7 @@
 .App {
   text-align: center;
   background:url("https://previews.dropbox.com/p/thumb/AAn8pQ9GkoZh1eEx6lQanyoEwmIGCW6wXbsiGtP407N9FpynTeB-edgkD2fYz044OuBG54dGereAXHqN6-FS_BBTmE8bSH7Tj8rhseUCNH287gQXZAIqIFF0eZdXICaMiNg1jSH08EdU88JqiLvk-jWi-nRWIk_gKHjtYncXcES0VHRJ8wLXXjbkowHfuJzsXRYcSF_e_J9l_txkjXFQNgV1zHdb8O2V5UPweLoL9ngJ-IhW3odGNgA0BtfEXy0VVFlUNHCXQIbHmCu2ewZ1PeXe0tBAX2nD-4MO77riQ36Ws6cBqJeabDcXFMQS9Sxj7JhwCncKKTxscxtQ_qrJAxDG/p.png?size=2048x1536&size_mode=3");
-  background-size: cover;
+  background-size:cover;
 }
 
 .App-logo {
@@ -16,13 +16,13 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
+  font-family: 'Roboto', sans-serif;
   color: white;
 }
 
 .name{
   margin-top: 0px;
   margin-left: -200px;
-  
 }
 
 .App-link {
@@ -30,9 +30,14 @@
 }
 
 h1{
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 50px;
-  color: lightsalmon;
+  color: #FF701B;
+  font-weight: bold;
+}
+
+h2{
+  font-weight: medium;
 }
 
 .topbox{
@@ -90,14 +95,15 @@ h1{
 }
 
 p{
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 20px;
-  color: lightcoral;
+  color:#FFA450;
 }
 
 .slogan{
+  font-family: 'Roboto', sans-serif;
   font-size: 25px;
-  color: lightsalmon;
+  color: #FFA450;
 }
 
 .buttonBox{
@@ -111,10 +117,12 @@ button{
   width: 300px;
   height: 125px;
   font-size: 25px;
+  font-family: 'Roboto', sans-serif;
   border-style: solid;
   border-radius: 20px;
-  background:lightsalmon;
+  background:#FEFAE7;
   font-weight: bold;
+  color: #FFA450;
 }
 
 .description{
@@ -132,18 +140,18 @@ button{
 }
 
 .question{
-  font-family: Arial, Helvetica, sans-serif;
-  color: white;
+  font-family: 'Roboto', sans-serif;
+  color:#FEFAE7;
 }
 
 .problem{
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 30px;
-  color:black;
+  color:#FFA450;
 }
 
 .problemBox{
-  background-color:white;
+  background-color:#FEFAE7;
   opacity:90%;
   margin-left: auto;
   margin-right: auto;
