@@ -38,7 +38,10 @@ function Interaction() {
           you're NOT finishing up that paper but you're shopping for Feiyue's on Taobao...
           </p>
           <p className="problem">
-          and the next thing you know, an all nighter is the only solution?
+          And the next thing you know, an all nighter is the only solution?
+          </p>
+          <p className="problem">
+          You may not be getting enough sleep because you’re not being efficient with your time!
           </p>
         </div>
 
